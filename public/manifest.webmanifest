@@ -1,0 +1,19 @@
+{
+  "name": "MAKU Foods Nexus",
+  "short_name": "MAKU",
+  "description": "End-to-end business operations for MAKU Foods.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1428",
+  "theme_color": "#0b1428",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b1428"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="900" font-size="160" fill="#ffffff">M</text>
+  <path d="M256 320 q40 -60 100 -60 q-10 60 -60 90 q-30 18 -60 6 q-30 12 -60 -6 q-50 -30 -60 -90 q60 0 100 60 z" fill="#3fb86a"/>
+  <text x="50%" y="86%" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="48" fill="#ffffff" letter-spacing="6">MAKU</text>
+</svg>
