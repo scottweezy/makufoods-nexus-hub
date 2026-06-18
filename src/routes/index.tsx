@@ -81,7 +81,7 @@ function Landing() {
       {/* Top utility bar */}
       <div className="border-b bg-card">
         <div className="mx-auto flex h-14 max-w-[1600px] items-center gap-4 px-4 md:px-6">
-          <MakuLogo />
+          <MakuLogo variant="dark" />
           <nav className="ml-auto hidden items-center gap-6 text-sm font-medium md:flex">
             <a href="#dashboard" className="hover:text-brand-red">Dashboard</a>
             <a href="#mobile" className="hover:text-brand-red">Mobile Apps</a>
